@@ -1,0 +1,5 @@
+<Response>
+  <Say>Pausing for 5 minutes</Say>
+  <Pause length="300"></Pause>
+  <Say>Done pausing. Goodbye.</Say>
+</Response>
